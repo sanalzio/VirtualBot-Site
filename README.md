@@ -4,6 +4,6 @@
 ## Yapımcı:
 </> Virtualzio </>#5778
 ## Destekçiler
-<span style="color:red">Names Milkshake#1991</span>
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 
 ![VirtualBot](1627306530-31-177-227-110.png)
