@@ -5,3 +5,9 @@
 Names Milkshake#1991
 
 ✮ Hareld Williams#3350
+
+## Komutlar ;
+
+Komut|İşlev|Kullanım
+-----|-----|--------
+%yardım|Komutları Basitçe Gösterir|%yardım,%?,%help
