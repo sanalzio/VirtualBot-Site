@@ -11,3 +11,4 @@ Names Milkshake#1991
 Komut|İşlev|Kullanım
 -----|-----|--------
 %yardım|Komutları Basitçe Gösterir|%yardım,%?,%help
+%temizle|Belirtilen Miktarda Mesaj Siler|%temizle `Sayı`
