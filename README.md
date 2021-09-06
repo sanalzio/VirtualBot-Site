@@ -13,11 +13,14 @@ Names Milkshake#1991
 Komut|İşlev|Kullanım
 -----|-----|--------
 %yardım|Komutları Basitçe Gösterir|%yardım,%?,%help
+%soru|Bota Soru Sorarsınız|%saoru `Sorunuz`
 %temizle|Belirtilen Miktarda Mesaj Siler|%temizle `Sayı`
 %söyle|Bota Mesaj Göndertir|%söyle `Mesaj`
 %embed|Bota Sizin Adınıza Embed Mesaj Göndertir|%embed `Başlık` `Açıklama` `İngilizce Renk İsmi`
 %oynat|Müzik Çalar|%oynat `Müzik Adı`
 %avatar|Etiketlenen Kişinin Yada Kendinizin Profil Fotoğrafını Gösterir|%avatar `@Kullanıcı Adı`
+%havadurumu|Hava Durumunu Gösterir|%havadurumu
+%gönder|Webhooklar'a Mesaj Gönderir|%gönder `Webhook ID` `Webhook Token` `Mesaj`
 %banner|Yazıyı Resme Çevirir|%banner `Yatay Boyut`X`Dikey Boyut` `Arka Plan Html Renk Kodu` `yazı Html Renk Kodu` `Metin`
 %konuşmabalonu|Yazıyı Resme Çevirir|%konuşmabalonu `Metin`
 %oylama|Oylama Bşlatır|%oylama `Metin`
