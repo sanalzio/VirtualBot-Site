@@ -35,3 +35,4 @@ Komut|İşlev|Kullanım
 %mcskin|Belirttiğiniz Minecraft Oyuncusuna Ait Resimler Atar|%mcskin `Minecraft Kullanıcı Adı` `Avatar Yada Body Yada Head Yada Player Yada Combo Yada Skin`
 %mcbaşarı|Size Minecraft Başarı Resmi Atar|%mcbaşarı `Başlık` `Açıklama`
 %mc|Size Belirttiğiniz Minecraft Sunucusu Hakkında Bilgi Verir|%mc `Minecraft Sunucu IP'Si` `Sunucu Portu(Zorunlu Değildir!)`
+%mcsvi|Belirttiğiniz Minecraft Sunucusunun Simgesini Gösterir|%mcsvi `Sunucu IP'si`
